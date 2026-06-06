@@ -1,0 +1,2 @@
+# odoo-hackathon
+VendorBridge
